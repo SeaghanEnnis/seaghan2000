@@ -1,5 +1,4 @@
-- Hello my name is Seaghan Ennis.
-
+Hello my name is Seaghan Ennis.
 
 - I am a current student at University of Colorado: Colorado Springs. I will be graduating this May of 2022.
 - I am competent in the following backend languages: C/C++/C#/Java/Python
